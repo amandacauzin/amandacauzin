@@ -23,16 +23,3 @@
 
  
 
----
-<table style="border; Opx solid;">
-  <tr>
-<div align = "center">
-  <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacauzin&show_icons=true&theme=bear&count_private=true"/>
-  </td>
-   <td>
-<img src="https://github-readme-stats.vercel.app/api?username=amandacauzin&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-   </td>
-</div>
-  </tr>
-</table>
